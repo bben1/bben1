@@ -2,7 +2,7 @@
 
 ### Stats
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bben1&hide=contribs,issues,prs&count_private=true&show_icons=true&theme=radical&border_radius=8px)](https://github.com/bben1/github-readme-stats)
-<!-- [![Ben's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bben1)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Ben's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bben1)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bben1/bben1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
