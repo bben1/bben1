@@ -1,9 +1,9 @@
 ## About me 👋
 
-- <b>Today</b>, a back-end engineer working on Payments. 💳 
-- <b>Previously</b>, a full-stack engineer working on both EdTech 📚 and Travel ✈️ Products.
+- <b>Today</b>, a back-end engineer working in **Fintech**. 💳 
+- <b>Previous experience</b> building: _EdTech_ 📚, _Fraud_ :rotating_light: and _Travel_ ✈️ Products.
 - <b>What's next</b>... 🚀 
-- Current interests include: <b>AI</b>, <b>User behaviour</b>, and <b>Data Analytics</b>. 🧠 
+- Current interests include: _AI_, _Architecture_, and _Data Analysis_. 🧠 
 
 <div align="left" style="margin-top: 30px;">
   
